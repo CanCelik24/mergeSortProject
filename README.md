@@ -1,6 +1,5 @@
 # mergeSortProject
-[Kodluyoruz](www.patika.dev) .Net eğitimi için oluşturulan
-## Merge Sort Projesi
+[Kodluyoruz](www.patika.dev) .Net eğitimi için oluşturulan Merge Sort Projesi
 ### Proje 2
 ### [16,21,11,8,12,22] -> Merge Sort
 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
